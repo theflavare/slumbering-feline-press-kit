@@ -15,6 +15,7 @@ We have prepared a single archive for download containing all you may use for pr
 ## Gameplay & Trailer
 
 - Preview: https://www.youtube.com/watch?v=mMi40pAauBQ
+  
   [![Preview](https://img.youtube.com/vi/mMi40pAauBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=mMi40pAauBQ)
 
 ## General Overview
@@ -86,9 +87,9 @@ You can find out about us in https://theflavare.com/about
 
 You can use all resources relate to game for publication
 
-- [Logo](https://github.com/theflavare/momo-press-kit/tree/main/logo): https://github.com/theflavare/momo-press-kit/tree/main/logo
-- [Screenshot](https://github.com/theflavare/momo-press-kit/tree/main/screenshot): https://github.com/theflavare/momo-press-kit/tree/main/screenshot
-- [Artwork](https://github.com/theflavare/momo-press-kit/tree/main/artwork): https://github.com/theflavare/momo-press-kit/tree/main/artwork
+- [Logo](https://github.com/theflavare/slumbering-feline-press-kit/tree/main/logo): https://github.com/theflavare/slumbering-feline-press-kit/tree/main/logo
+- [Screenshot](https://github.com/theflavare/slumbering-feline-press-kit/tree/main/screenshot): https://github.com/theflavare/slumbering-feline-press-kit/tree/main/screenshot
+- [Artwork](https://github.com/theflavare/slumbering-feline-press-kit/tree/main/artwork): https://github.com/theflavare/slumbering-feline-press-kit/tree/main/artwork
 
 ### Artworks
 
