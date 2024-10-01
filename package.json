@@ -1,0 +1,28 @@
+{
+  "markdown-to-html": {
+    "document": {
+      "title": "Slumbering Feline - Press Kit",
+      "description": "Slumbering Feline Game Press Kit.",
+      "style": "",
+      "meta": [
+        {
+          "description": "Slumbering Feline Game Press Kit."
+        },
+        {
+          "keywords": "theflavare, game, press kit, slumbering, feline, 2d, platformer, pixel art, horror, cat,"
+        }
+      ]
+    },
+    "favicon": "logo/slumbering-feline-logo.png",
+    "github-corners": "https://github.com/theflavare/slumbering-feline-press-kit",
+    "reurls": {
+      "readme.md": "index.html"
+    }
+  },
+  "scripts": {
+    "start": "mkdir dist && markdown-to-html --source readme.md --output dist/index.html && cp artwork logo screenshot dist -r"
+  },
+  "devDependencies": {
+    "markdown-to-html-cli": "^4.1.0"
+  }
+}

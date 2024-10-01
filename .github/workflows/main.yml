@@ -1,0 +1,65 @@
+name: Release and Deploy
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Set up Node 🔧
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20 # LTS (May 2024 - April 2026)
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Web 🔧
+        run: |
+          npm start
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist # The folder the action should deploy.
+
+      - name: Archive Release 🔧
+        uses: thedoctor0/zip-release@0.7.5
+        with:
+          directory: './dist'
+          type: 'zip'
+          filename: 'press-kit.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig'
+
+      - name: Tag Repo 🔧
+        uses: richardsimko/update-tag@v1
+        with:
+          tag_name: latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Remove Old Release 🔥
+        continue-on-error: true
+        run: |
+          gh release delete latest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release 🚀
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          tag: latest
+          bodyFile: 'release-body.md'
+          allowUpdates: true
+          makeLatest: true
+          name: 'Press Kit'
+          artifacts: 'dist/press-kit.zip'
+          token: ${{ secrets.GITHUB_TOKEN }}
