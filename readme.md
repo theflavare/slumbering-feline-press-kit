@@ -15,14 +15,14 @@ We have prepared a single archive for download containing all you may use for pr
 ## Gameplay & Trailer
 
 - Preview: https://www.youtube.com/watch?v=mMi40pAauBQ
-  
+
   [![Preview](https://img.youtube.com/vi/mMi40pAauBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=mMi40pAauBQ)
 
 ## General Overview
 
 Slumbering Feline is a single-player, one-shot game featuring a feline-themed story. Step into the shoes of Momo, who finds herself lost in a strange dream and trying to escape from her slumber.
 
-Slumbering Feline is currently available on Windows via Itch.io and coming soon to Steam.
+Slumbering Feline is currently available on Windows via Itch.io and Steam.
 
 ### Story
 
@@ -49,8 +49,12 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Developer / Creator / Copyright: The Flavare
 - Platforms: Windows
 - Genre: 2D Platformer, Adventure, One-shot Game
-- Release Date: 27 September 2024 (Itch.io), TBA (Steam)
-- Store (Itch.io): https://theflavare.itch.io/slumbering-feline
+- Release Date:
+  - Steam Windows - Q1 2025
+  - Itch.io Windows - 27 September 2024
+- Store:
+  - Steam - [https://store.steampowered.com/app/3328410/Slumbering_Feline/](https://store.steampowered.com/app/3328410/Slumbering_Feline/)
+  - Itch.io - [https://theflavare.itch.io/slumbering-feline](https://theflavare.itch.io/slumbering-feline)
 
 ### Other Facts
 
@@ -61,7 +65,7 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Language: English
 - Price: Free
 - Created At: 2024-09-27
-- Updated At: 2024-10-01
+- Updated At: 2024-12-08
 
 ## Contact
 
@@ -85,7 +89,8 @@ You can find out about us in https://theflavare.com/about
 - X / Twitter: https://x.com/TheFlavare
 - IG: https://instagram.com/theflavare
 
-You can use all resources relate to game for publication
+You can use all resources relate to game for publication.
+**You can't use all resources for image generation AI model or any AI-image-generation-related things.**
 
 - [Logo](https://github.com/theflavare/slumbering-feline-press-kit/tree/main/logo): https://github.com/theflavare/slumbering-feline-press-kit/tree/main/logo
 - [Screenshot](https://github.com/theflavare/slumbering-feline-press-kit/tree/main/screenshot): https://github.com/theflavare/slumbering-feline-press-kit/tree/main/screenshot
@@ -93,7 +98,7 @@ You can use all resources relate to game for publication
 
 ### Artworks
 
-![Slumbering Feline](artwork/slumbering-feline-itch-io-banner.png)
+![Slumbering Feline](artwork/slumbering-feline-banner-1920x1080.png)
 ![Slumbering Feline](artwork/slumbering-feline-cover.png)
 
 ### Screenshot
