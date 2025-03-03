@@ -50,11 +50,9 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Platforms: Windows
 - Genre: 2D Platformer, Adventure, One-shot Game
 - Release Date:
-  - Steam Windows - Q1 2025
-  - Itch.io Windows - 27 September 2024
+  - Steam Windows - 07 March 2025
 - Store:
   - Steam - [https://store.steampowered.com/app/3328410/Slumbering_Feline/](https://store.steampowered.com/app/3328410/Slumbering_Feline/)
-  - Itch.io - [https://theflavare.itch.io/slumbering-feline](https://theflavare.itch.io/slumbering-feline)
 
 ### Other Facts
 
@@ -64,8 +62,8 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Related / Inspiration games: Fatal Frame, Dead Cell
 - Language: English
 - Price: Free
-- Created At: 2024-09-27
-- Updated At: 2024-12-08
+- Created: 2025-03-07
+- Last Content Updated: 2025-03-07
 
 ## Contact
 
