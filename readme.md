@@ -14,9 +14,9 @@ We have prepared a single archive for download containing all you may use for pr
 
 ## Gameplay & Trailer
 
-- Preview: https://www.youtube.com/watch?v=mMi40pAauBQ
+[https://www.youtube.com/watch?v=AiLRTPFS5l0](https://www.youtube.com/watch?v=AiLRTPFS5l0)
 
-  [![Preview](https://img.youtube.com/vi/mMi40pAauBQ/hqdefault.jpg)](https://www.youtube.com/watch?v=mMi40pAauBQ)
+[![Preview](https://img.youtube.com/vi/AiLRTPFS5l0/hqdefault.jpg)](https://www.youtube.com/watch?v=AiLRTPFS5l0)
 
 ## General Overview
 
@@ -62,14 +62,13 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Related / Inspiration games: Fatal Frame, Dead Cell
 - Language: English
 - Price: Free
-- Created: 2025-03-07
 - Last Content Updated: 2025-03-07
 
 ## Contact
 
 For all press enquiries you can contact us at via Email.
 
-- Email: hello@theflavare.com
+- Email: <hello@theflavare.com>
 
 ## The Creator
 
@@ -79,13 +78,13 @@ For all press enquiries you can contact us at via Email.
 
 > We’re excited to share this experience with you and bring together everything we've learned over the years. We hope you enjoy playing Slumbering Feline as much as we enjoyed creating it!
 
-You can find out about us in https://theflavare.com/about
+You can find out about us in <https://theflavare.com/about>
 
 ## Assets / Resources
 
-- Website: https://theflavare.com
-- X / Twitter: https://x.com/TheFlavare
-- IG: https://instagram.com/theflavare
+- Website: <https://theflavare.com>
+- X / Twitter: <https://x.com/TheFlavare>
+- IG: <https://instagram.com/theflavare>
 
 You can use all resources relate to game for publication.
 **You can't use all resources for image generation AI model or any AI-image-generation-related things.**
