@@ -42,6 +42,7 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - **4 checkpoints** for respawn and progression.
 - **Xbox controller** support (Windows).
 - Available on **Windows**.
+- English Language.
 
 ## Factsheet
 
@@ -49,7 +50,7 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Developer / Creator / Copyright: The Flavare
 - Platforms: Windows
 - Genre: 2D Platformer, Adventure, One-shot Game
-- Release Date:
+- Publish Date:
   - Steam Windows - 07 March 2025
 - Store:
   - Steam - [https://store.steampowered.com/app/3328410/Slumbering_Feline/](https://store.steampowered.com/app/3328410/Slumbering_Feline/)
@@ -59,10 +60,11 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Perspective: 2D
 - Art Style: 2D Pixel-art
 - Game Engine: Unity Engine
-- Related / Inspiration games: Fatal Frame, Dead Cell
+- Related / Inspiration games: Fatal Frame, Dead Cell, Momodora, Ender Lilies
+- Game Mode: Single-player
 - Language: English
 - Price: Free
-- Last Content Updated: 2025-03-07
+- Last Content Updated: 2025-09-19 (Version 1.1.6)
 
 ## Contact
 
@@ -73,9 +75,7 @@ For all press enquiries you can contact us at via Email.
 ## The Creator
 
 > Hi! This is Raditz, one of the creators behind Slumbering Feline. My team and I are thrilled to announce this new game, blending a short story collection with unique gameplay elements.
-
 > In Slumbering Feline, we've introduced a scan or shutter-style combat system, where you attack enemies in a distinctive, non-traditional way. Although this is a one-shot story, we hope to continue building on its world in future installments.
-
 > We’re excited to share this experience with you and bring together everything we've learned over the years. We hope you enjoy playing Slumbering Feline as much as we enjoyed creating it!
 
 You can find out about us in <https://theflavare.com/about>
