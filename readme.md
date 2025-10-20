@@ -64,7 +64,7 @@ Momo will explore, battle enemies, discover weak points, find the key, and make 
 - Game Mode: Single-player
 - Language: English
 - Price: Free
-- Last Content Updated: 2025-09-19 (Version 1.1.6)
+- Last Content Updated: 2025-10-06 (Version 1.1.7)
 
 ## Contact
 
