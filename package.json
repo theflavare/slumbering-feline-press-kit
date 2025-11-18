@@ -24,5 +24,8 @@
   },
   "devDependencies": {
     "markdown-to-html-cli": "^4.1.0"
+  },
+  "overrides": {
+    "glob": "^11.1.0"
   }
 }
