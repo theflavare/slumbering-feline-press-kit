@@ -19,7 +19,7 @@ We have prepared a single archive for download containing all you may use for pr
 <iframe
   width="960"
   height="540"
-  src="https://www.youtube.com/watch?v=AiLRTPFS5l0"
+  src="https://www.youtube.com/embed/AiLRTPFS5l0"
   title="Slumbering Feline Trailer"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -34,7 +34,7 @@ We have prepared a single archive for download containing all you may use for pr
 <iframe
   width="960"
   height="540"
-  src="https://www.youtube.com/watch?v=1XtQjKrEp6M"
+  src="https://www.youtube.com/embed/1XtQjKrEp6M"
   title="Slumbering Feline Nightmare Trailer"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -107,7 +107,7 @@ Nightmare is unlocked after clearing the base game once and owning the Nightmare
 - Publish Date:
   - Steam - 07 March 2025
   - Steam DLC (Starter Pack) - 12 May 2026
-  - Steam DLC (Nightmare) - 15 May 2026
+  - Steam DLC (Nightmare) - 13 May 2026
 - Store:
   - Steam - [https://store.steampowered.com/app/3328410/Slumbering_Feline/](https://store.steampowered.com/app/3328410/Slumbering_Feline/)
   - Steam DLC (Starter Pack) - [https://store.steampowered.com/app/4372470/Slumbering_Feline\_\_Starter_Pack/](https://store.steampowered.com/app/4372470/Slumbering_Feline__Starter_Pack/)

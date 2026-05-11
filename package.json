@@ -23,7 +23,7 @@
     "start": "mkdir dist && markdown-to-html --source readme.md --output dist/index.html && cp artwork logo screenshot dist -r"
   },
   "devDependencies": {
-    "markdown-to-html-cli": "^5.0.3"
+    "markdown-to-html-cli": "^5.0.4"
   },
   "overrides": {
     "glob": "^11.1.0"
