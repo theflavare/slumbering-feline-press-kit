@@ -88,13 +88,14 @@ Nightmare is unlocked after clearing the base game once and owning the Nightmare
 
 - **2D side-scrolling platformer** with pixel-art and an atmospheric environment.
 - Unique combat system featuring **Shutter Attacks and Parry Actions**.
-- **10-30** minutes playtime.
+- **10-30** minutes playtime. (+25-40 minutes playtime on Nightmare)
 - **A single objective** within a large, interconnected level.
-- **7 enemy types, 2 weapons, plus a parry mechanic**.
-- **15 Celestial Runes**; unique power-ups to discover and utilize.
+- **7 enemy types, 2 weapons, plus a parry mechanic**. (+5 enemy variants on Nightmare)
+- **15 Celestial Runes**; unique power-ups to discover and utilize. (+2 Nightmare rune on Nightmare)
 - **4 checkpoints** for respawn and progression.
 - Hidden quest, Side quest and various Puzzles.
 - **Xbox controller** support (Windows).
+- **37 Steam achievements**
 - Available on **Windows** & **Linux**.
 - English Language.
 
@@ -102,12 +103,12 @@ Nightmare is unlocked after clearing the base game once and owning the Nightmare
 
 - Game Title: Slumbering Feline
 - Developer / Creator / Copyright: The Flavare
-- Platforms: Windows, Linux
-- Genre: 2D Platformer, Adventure, One-shot Game
+- Platforms: Windows & Linux
+- Genre: 2D Platformer, Adventure, Difficult, One-shot Game
 - Publish Date:
   - Steam - 07 March 2025
-  - Steam DLC (Starter Pack) - 12 May 2026
-  - Steam DLC (Nightmare) - 13 May 2026
+  - Steam DLC (Starter Pack) - 13 May 2026
+  - Steam DLC (Nightmare) - 15 May 2026
 - Store:
   - Steam - [https://store.steampowered.com/app/3328410/Slumbering_Feline/](https://store.steampowered.com/app/3328410/Slumbering_Feline/)
   - Steam DLC (Starter Pack) - [https://store.steampowered.com/app/4372470/Slumbering_Feline\_\_Starter_Pack/](https://store.steampowered.com/app/4372470/Slumbering_Feline__Starter_Pack/)
@@ -123,10 +124,10 @@ Nightmare is unlocked after clearing the base game once and owning the Nightmare
 - Language: English
 - Price:
   - Base Game: Free
-  - Starter Pack DLC: MSRP $2.00 USD\*
+  - Starter Pack DLC: MSRP $1.50 USD\*
   - Nightmare DLC: MSRP $2.00 USD\*
   - _\*Final customer price may vary by region, store and discounts._
-- Last Content Updated: 2026-05-08 (Version 1.2)
+- Last Content Updated: 2026-05-19 (v1.2.3b63)
 
 ## Contact
 
