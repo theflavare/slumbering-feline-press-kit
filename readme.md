@@ -127,7 +127,7 @@ Nightmare is unlocked after clearing the base game once and owning the Nightmare
   - Starter Pack DLC: MSRP $1.50 USD\*
   - Nightmare DLC: MSRP $2.00 USD\*
   - _\*Final customer price may vary by region, store and discounts._
-- Last Content Updated: 2026-05-19 (v1.2.3b63)
+- Last Content Updated: 2026-05-25 (v1.2.4)
 
 ## Contact
 
